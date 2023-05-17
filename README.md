@@ -1,5 +1,5 @@
 # Snake_and_Ladder_Game
-Created Simplest snake and ladder game using For-loop, If-Else concepts in Python as a Semester Project
+Created Simplest snake and ladder game using For-loop, If-Else concepts in Python and OOP concept in C++ as a Semester Project
 # Information about files
 ## Snake And Ladder game (Single Player).ipynb
 In this game, Player1 (Human) play against bot.
